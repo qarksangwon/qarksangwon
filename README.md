@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Welcome!&fontSize=70)
 ### <p>🫡Welcome my github!</p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qarksangwon&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,6 +59,6 @@
   </a>
 </div><br>
 
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
