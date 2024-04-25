@@ -50,10 +50,10 @@
 ### ✉️contact
 <div>
   <a href="mailto:0629psw@gmail.com">
-    <img src="https://img.shields.io/badge/0629psw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/0629psw@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white"/>
   </a>
   <a href="mailto:0629sw@naver.com">
-    <img src="https://img.shields.io/badge/0629sw@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/0629sw@naver.com-03C75A?style=plastic&logo=naver&logoColor=white"/>
   </a>
 </div><br>
 
