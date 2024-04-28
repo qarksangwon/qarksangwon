@@ -43,7 +43,6 @@
       <img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=plastic&logo=VISUAL%20STUDIO&logoColor=white"></img>
       <img src="https://img.shields.io/badge/GITHUB-181717?style=plastic&logo=GITHUB&logoColor=white"></img>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></img>
     </div>
 </div><br><br>
 
