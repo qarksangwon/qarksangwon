@@ -5,6 +5,9 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HANYONUJUN&layout=compact&theme=tokyonight&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 🔥Studying
 <div>
   <a href="https://hulking-flea-2e8.notion.site/5bdd97c53b954855af8a46848b83def2?pvs=4">
