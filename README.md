@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Welcome!&fontSize=70)
-### <p>🫡Welcome my github!</p>
+### <p>👋Welcome my github!</p>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
