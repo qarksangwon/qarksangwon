@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/React-007ACC?style=plastic&logo=react&logoColor=white">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=gradle&logoColor=white">
