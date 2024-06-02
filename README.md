@@ -31,6 +31,7 @@
         <img src="https://img.shields.io/badge/React-007ACC?style=plastic&logo=react&logoColor=white">
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Python-007ACC?style=plastic&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=gradle&logoColor=white">
   </div>
 </div><br><br>
