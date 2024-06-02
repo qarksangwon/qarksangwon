@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Welcome!&fontSize=70)
 ### <p>👋Welcome my github!</p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HANYONUJUN&layout=compact&theme=tokyonight&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
