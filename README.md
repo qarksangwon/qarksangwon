@@ -32,7 +32,7 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/Python-007ACC?style=plastic&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-5C2D91?style=plastic&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/c%23-512BD4?style=plastic&logo=c%23&logoColor=white">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=gradle&logoColor=white">
   </div>
 </div><br><br>
