@@ -9,7 +9,7 @@
 
 ### 🔥Studying
 <div>
-  <a href="https://hulking-flea-2e8.notion.site/5bdd97c53b954855af8a46848b83def2?pvs=4">
+  <a href="https://sangdolstudy.notion.site/5bdd97c53b954855af8a46848b83def2">
     <img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=#ECD53F">
   </a>
 </div><br>
